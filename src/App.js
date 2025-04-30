@@ -21,7 +21,7 @@ function App() {
             👹
           </p>
           <img
-            src="/images/kk.jpeg"
+            src={`${process.env.PUBLIC_URL}/images/kk.jpeg`}
             alt="Shitpost"
             style={{
               width: '100%',
@@ -46,7 +46,7 @@ function App() {
             
           </p>
           <img
-            src="/images/pp.jpeg"
+            src={`${process.env.PUBLIC_URL}/images/pp.jpeg`}
             alt="Meme de cumpleaños"
             style={{
               width: '100%',
@@ -56,7 +56,7 @@ function App() {
               boxShadow: '0 4px 15px rgba(0, 0, 0, 0.5)',
             }}
           /> <img
-          src="/images/xd.jpg"
+          src={`${process.env.PUBLIC_URL}/images/xd.jpg`}
           alt="Meme de cumpleaños"
           style={{
             width: '100%',

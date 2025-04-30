@@ -53,7 +53,7 @@ const Popup = () => {
         Esta página es solo para amantes de las góticas culonas.
       </p>
       <img
-        src="/images/cum.png"
+        src={`${process.env.PUBLIC_URL}/images/cum.png`}
         alt="CUMtry"
         style={{
           width: "150px",
