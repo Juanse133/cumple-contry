@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cumple-contry/static/css/main.0b69c332.css",
+    "main.js": "/cumple-contry/static/js/main.954fb9f4.js",
+    "static/js/453.e1e35a21.chunk.js": "/cumple-contry/static/js/453.e1e35a21.chunk.js",
+    "index.html": "/cumple-contry/index.html",
+    "main.0b69c332.css.map": "/cumple-contry/static/css/main.0b69c332.css.map",
+    "main.954fb9f4.js.map": "/cumple-contry/static/js/main.954fb9f4.js.map",
+    "453.e1e35a21.chunk.js.map": "/cumple-contry/static/js/453.e1e35a21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b69c332.css",
+    "static/js/main.954fb9f4.js"
+  ]
+}
